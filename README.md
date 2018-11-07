@@ -7,6 +7,6 @@ Htop-like monitor in text or graphic mode.
 
 Run `make` then `make clean`
 
-## USAGE
+## Usage
 
 `./monitor ([--text][-t] || [--graphical][-g])`
